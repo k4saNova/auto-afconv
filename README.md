@@ -1,2 +1,2 @@
 # auto-afconv
-auto afconvet
+リポジトリをダウンロードして， コマンドファイルを実行すればOK
